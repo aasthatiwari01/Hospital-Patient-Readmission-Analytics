@@ -1,0 +1,32 @@
+Patient_ID,Age,Gender,Diagnosis,Num_Procedures,Previous_Admissions,Length_of_Stay,Readmitted
+P100,71.0,Male,Heart Disease,2.0,2,11,Yes
+P101,34.0,Male,Diabetes,0.0,2,7,No
+P102,80.0,Male,Kidney Disease,2.0,1,11,No
+P103,,Male,Heart Disease,2.0,2,9,Yes
+P104,43.0,Male,Diabetes,0.0,2,5,No
+P105,22.0,Male,Pneumonia,2.0,0,8,Yes
+P106,41.0,Male,Diabetes,4.0,2,11,No
+P107,72.0,,Kidney Disease,1.0,2,8,Yes
+P108,21.0,Female,Heart Disease,1.0,1,5,Yes
+P109,49.0,Female,Heart Disease,0.0,1,4,Yes
+P110,57.0,Male,Hypertension,3.0,3,11,Yes
+P111,21.0,Female,Kidney Disease,0.0,0,5,No
+P112,83.0,Female,,3.0,2,12,Yes
+P113,79.0,Female,Pneumonia,1.0,2,8,Yes
+P114,40.0,Female,Pneumonia,0.0,3,7,Yes
+P115,52.0,Male,Hypertension,5.0,2,13,Yes
+P116,77.0,Female,Kidney Disease,4.0,0,9,Yes
+P117,41.0,Male,Kidney Disease,2.0,3,8,Yes
+P118,68.0,Female,Pneumonia,3.0,0,10,Yes
+P119,78.0,Female,Pneumonia,,3,13,No
+P120,61.0,Female,Hypertension,2.0,3,14,Yes
+P121,79.0,Male,Pneumonia,2.0,1,10,No
+P122,34.0,Female,Heart Disease,0.0,0,3,No
+P123,81.0,Male,Heart Disease,2.0,2,10,No
+P124,81.0,Female,Diabetes,4.0,2,12,No
+P125,66.0,Male,Diabetes,5.0,0,11,Yes
+P126,81.0,Female,Heart Disease,2.0,2,8,Yes
+P127,70.0,Male,Heart Disease,0.0,2,10,No
+P128,74.0,Male,Heart Disease,4.0,0,11,No
+P129,83.0,Female,Diabetes,1.0,3,11,Yes
+P105,22.0,Male,Pneumonia,2.0,0,8,Yes
