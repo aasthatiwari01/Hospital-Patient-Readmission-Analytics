@@ -1,7 +1,7 @@
 
 ## Hospital Patient Readmission & Length-of-Stay Analytics
 
-A complete Python analytics workflow analyzing hospital patient data to understand the factors associated with length of hospital stay and patient readmission. Built as part of the Healthcare Analytics coursework (Python for Analytics) during my MBA in Healthcare Analytics.
+A complete Python analytics workflow analyzing hospital patient data to understand the factors associated with length of hospital stay and patient readmission. 
 
 ### Project Overview: 
 
