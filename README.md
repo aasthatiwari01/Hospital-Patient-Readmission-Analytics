@@ -44,6 +44,4 @@ The Linear Regression model predicting Length of Stay achieved an **R² of 0.946
   **RMSE of 0.57 days**, meaning Age, Number of Procedures, and Prior Admissions together
   explain about 94.6% of the variation in how long a patient stays, with predictions typically
   off by only about half a day.
-[Add your actual regression R² result and what it indicates]
 
-(Note: This project uses a small illustrative dataset of 10 patients to demonstrate the analytics workflow end-t
