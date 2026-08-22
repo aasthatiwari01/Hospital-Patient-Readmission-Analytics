@@ -1,7 +1,6 @@
 
 ## Hospital Patient Readmission & Length-of-Stay Analytics
-
-A complete Python analytics workflow analyzing hospital patient data to understand the factors associated with length of hospital stay and patient readmission. 
+This project analyzes hospital patient data to identify factors driving length of stay and readmission risk. After cleaning and exploring the dataset, I applied statistical hypothesis testing (t-test, Chi-Square) to validate key patterns, then built a Linear Regression model (R² = 0.95) to predict length of stay and a Logistic Regression classifier to predict readmission. Visualizations and a correlation analysis supported the findings, which translate into practical recommendations for reducing avoidable readmissions.
 
 ### Project Overview: 
 
